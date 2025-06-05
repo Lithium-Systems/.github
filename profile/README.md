@@ -33,7 +33,7 @@ Collaborate on development—pull requests are always welcome!
 
 Let’s redefine performance and customization together.
 
-## 🔗 GitHub: https://github.com/Lithium-Systems 🌐 Website: https://lithium.timmkoo.de
+### 🔗 GitHub: https://github.com/Lithium-Systems | 🌐 Website: https://lithium.timmkoo.de
 
 <!--
 
