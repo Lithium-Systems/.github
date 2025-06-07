@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to Lithium!
 
-Welcome to the Lithium, the home of LithiumOS and all Lithium-powered services. We are a community of developers, engineers, and technology enthusiasts dedicated to crafting optimized, customizable software solutions for modern devices, particularly MediaTek-powered systems.
+Welcome to the Lithium, the home of **LithiumOS** and all Lithium-powered services. We are a community of developers, engineers, and technology enthusiasts dedicated to crafting optimized, customizable software solutions for modern devices, particularly MediaTek-powered systems.
 
 [<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
 
