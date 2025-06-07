@@ -8,13 +8,15 @@ Welcome to the Lithium, the home of LithiumOS and all Lithium-powered services. 
 Lithium is a performance-focused and modular software ecosystem designed to give users more control, customization, and efficiency in their devices. Whether you're looking for enhanced firmware, better app compatibility, or deeper system tweaks, Lithium services empower you with flexibility and precision.
 
 ## 🌟 Lithium Services Include:
-LithiumOS – A streamlined, high-performance Android-based OS optimized for MediaTek-powered devices.
+- **LithiumOS** – A streamlined, high-performance Android-based OS optimized for MediaTek-powered devices.
 
-LithiumTools – A collection of debugging, modification, and flashing utilities for seamless device customization.
+- **Lithium Ion** – A fast, ad-free web browser based on [Chromium](https://chromium.org) and adapted specifically for LithiumOS.
 
-LithiumCore – The foundational architecture powering all Lithium-based systems and enhancements.
+- **Lithium Tools** – A collection of debugging, modification, and flashing utilities for seamless device customization.
 
-LithiumLabs – A collaborative space for experimental features, research, and next-generation system optimizations.
+- **Lithium Core** – The foundational architecture powering all Lithium-based systems and enhancements.
+
+- **Lithium Labs** – A collaborative space for experimental features, research, and next-generation system optimizations.
 
 ## 🚀 The People Behind Lithium
 Led by **[Noah Domingues](https://github.com/NoahDomingues)**, Lithium is developed and maintained by a group of passionate engineers, developers, and modders who believe in open-source innovation and user empowerment. We specialize in ROM customization, automation tools, and system-level performance enhancements, always seeking new ways to push boundaries.
